@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Generar una secuencia que aumente de 5 en 5 hasta 100.
+
